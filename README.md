@@ -21,6 +21,9 @@
 - [事故予防ガイド](./docs/accident_prevention.md)
 - [育児関連書籍リスト](./books/book_list.md)
 - [学びの記録テンプレート](./books/template.md)
+- [パートナー向け具体的サポートガイド](./docs/partner_support_guide.md)
+- [産後うつ・メンタルヘルス対策ガイド](./docs/mental_health_guide.md)
+- [子育て費用と節約術ガイド](./docs/financial_planning.md)
 
 ## 使い方
 1. 必要なドキュメントを選択
