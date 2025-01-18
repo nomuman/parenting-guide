@@ -14,6 +14,10 @@
 - [新生児ケアガイド](./checklists/newborn_care.md)
 - [パパ向けサポートガイド](./docs/dad_support_guide.md)
 - [便利なアプリ＆サービス](./resources/useful_apps_services.md)
+- [予防接種スケジュール](./docs/vaccination_schedule.md)
+- [離乳食ガイド](./docs/weaning_guide.md)
+- [赤ちゃんの睡眠ガイド](./docs/baby_sleep_guide.md)
+- [事故予防ガイド](./docs/accident_prevention.md)
 
 ## 使い方
 1. 必要なドキュメントを選択
