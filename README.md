@@ -112,3 +112,9 @@
 - 異物の種類を確認
 - すぐに病院へ
 - 吐かせないように注意
+
+## 11. 詳細ドキュメント
+
+- [新生児ケア詳細ガイド](./checklists/newborn_care.md)
+- [パパ向けサポート詳細ガイド](./docs/dad_support_guide.md)
+- [便利なアプリ＆サービス詳細リスト](./resources/useful_apps_services.md)
