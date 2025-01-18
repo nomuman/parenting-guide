@@ -8,6 +8,7 @@
 - パパ向けサポートガイド付き
 - 便利なアプリ・サービス情報を掲載
 - 緊急時の対応マニュアルを提供
+- 育児関連書籍のレビューと学びの記録
 
 ## ドキュメント一覧
 - [総合ガイド](./docs/general_guide.md)
@@ -18,6 +19,8 @@
 - [離乳食ガイド](./docs/weaning_guide.md)
 - [赤ちゃんの睡眠ガイド](./docs/baby_sleep_guide.md)
 - [事故予防ガイド](./docs/accident_prevention.md)
+- [育児関連書籍リスト](./books/book_list.md)
+- [学びの記録テンプレート](./books/template.md)
 
 ## 使い方
 1. 必要なドキュメントを選択
